@@ -1,1 +1,11 @@
 .env
+venv/
+*.dat
+*.zip
+data/movielens/ml-1m/
+data/movielens/ratings_raw.csv
+jars/*.jar
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+Untitled*.ipynb
